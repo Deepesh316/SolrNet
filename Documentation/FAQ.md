@@ -10,7 +10,7 @@ It's very uncommon for Solr to make breaking changes in core functionality betwe
 
 #### I'm getting a Bad Request error when calling `Commit()`
 
-You're probably using an outdated version. [Upgrade to a recent build](README.md#downloads)
+You're probably using an outdated versionnnnnnnnnnnnnnnnnn. [Upgrade to a recent build](README.md#downloads)
 
 #### I'm getting a 404 (not found) response from Solr when doing any operation with SolrNet
 

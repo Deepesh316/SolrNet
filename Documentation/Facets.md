@@ -13,7 +13,7 @@ Facet queries are issued through the `FacetQueries` property of `QueryOptions`. 
 ### Querying by field
 Querying by field is handled by the `SolrFacetFieldQuery` class. Results are available through the `FacetFields` property.
 
-Example: print all categories sorted by popularity.
+Example: This will print all categories sorted by popularity.
 
 ```c#
 ISolrOperations<Document> solr = ...
